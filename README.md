@@ -46,3 +46,5 @@ The project follows a typical Machine Learning workflow:
 - Jupyter Notebook
 ## Purpose
 The purpose of this project is to practice and demonstrate the application of different Machine Learning algorithms to the same real-world earthquake dataset using both classification and regression approaches.
+# Author
+Mudassar Yaseen
